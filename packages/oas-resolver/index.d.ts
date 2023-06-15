@@ -1,0 +1,1 @@
+export function resolve(openapi: any, source: string, options: object): object;
